@@ -44,7 +44,7 @@ Tech Stack: React Three Fiber, Bolt.new, WebGL
 ## 📫 How to reach me
 - **Email**:amani.bousselidj@univ-constantine2.dz
 - **LinkedIn**: [https://www.linkedin.com/in/amani-bousselidj-ba7380283/)
-- **Portfolio**: [amanibousselidj.me](https://amanibousselidj.m)
+- **Portfolio**: [amanibousselidj.me](https://amanibousselidj.me)
 
 ---
 ## Hi there 👋
