@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Amani Bousselidj
-### 👩‍💻 Full Stack Developer | React.js & Django Enthusiast | AI in Education Advocate
+### 👩‍💻 Full Stack Developer | React.js , Next.js & Django, Node.js  Enthusiast | AI in Education Advocate
 
 ---
 
 ## 🚀 About Me
-I'm a passionate software engineer from Algeria with 5+ years of experience in frontend development. I enjoy building innovative, interactive, and scalable web applications.
+I'm a passionate software engineer from Algeria with 5+ years of experience in fullstack development. I enjoy building innovative, interactive, and scalable web applications.
 
 ---
 
